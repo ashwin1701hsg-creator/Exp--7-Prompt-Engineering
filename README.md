@@ -68,11 +68,11 @@ Highly detailed horse coloring page, majestic horse standing in profile, intrica
 
 Alternative Detailed Prompt
 
-Result:
-
-Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
 Elegant horse with flowing mane, filled with mandala and floral patterns, black-and-white coloring book illustration, highly detailed line art, professional vector drawing, white background, intricate decorative elements, printable coloring page, sharp and clean outlines.
 
 These prompts will generate images very similar in style to the butterfly coloring-page reference, but with a horse as the main subject.
-Result:
+
+
+##RESULT:
+
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
